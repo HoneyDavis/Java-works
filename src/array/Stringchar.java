@@ -7,7 +7,7 @@ public class Stringchar {
 		String s = "Hai how are you";    
         int count = 0;    
             
-        //Counts each character except space    
+       
         for(int i = 0; i < s.length(); i++)
         {    
             if(s.charAt(i) != ' ')    
