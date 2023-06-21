@@ -12,7 +12,7 @@ public class Primenumber {
 		
 		Scanner prime=new Scanner(System.in);
 		int a=prime.nextInt();
-		int temp=a;
+		//int temp=a;
 		int j=0;
 		
 		if(a>1)
@@ -24,8 +24,8 @@ public class Primenumber {
 				j++;
 				break;
 				}
-				else
-					a=temp;
+				//else
+					//a=temp;
 			
 			}
 		}

@@ -1,5 +1,5 @@
 
-//program to compare a anb b where a=1000,b=570.output should be in boolean value
+//program to compare a and b where a=1000,b=570.output should be in boolean value
 
 package sampleqstns;
 

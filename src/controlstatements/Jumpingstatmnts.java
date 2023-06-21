@@ -7,9 +7,8 @@ public class Jumpingstatmnts {
 		{
 			if(i==5)
 				
-			{
 				break; // when we use break execution will stop,here execution will exit from for loop, means when i become 5 execution of for loop will stop.
-			}
+			
 			System.out.print(i+"  ");
 		}
 		System.out.println();
